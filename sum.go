@@ -1,4 +1,4 @@
-package calculator
+package gomodule
 
 var logMessage = "[LOG]"
 
